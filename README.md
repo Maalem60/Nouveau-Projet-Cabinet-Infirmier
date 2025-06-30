@@ -1,0 +1,1 @@
+Dans le cadre d'un stage en entreprise, j'ai créé ce site vitrine pour un Cabinet Infirmier. Toutes les données personnelles ont été anonymisées, puisque je n'ai aucune autorisation de diffusion des informations personnelles.
